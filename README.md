@@ -5,8 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camillomoraes/)
 
 
-![camillodemoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=camillodemoraes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillodemoraes&layout=compact)
+![camillodemoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=camillodemoraes&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillodemoraes&layout=compact)
 
 
 ## Tecnologias que eu uso 
